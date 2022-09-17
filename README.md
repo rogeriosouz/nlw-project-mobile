@@ -13,7 +13,7 @@
 **🛠️ BUILT WITH**
 
 ```bash
-   .  React ts
+   .  React native
    .  Api rest
 ```
 
